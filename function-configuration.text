@@ -26,16 +26,11 @@
   },
   {
     "name": "appGwName",
-    "value": "<changeme>",
+    "value": "j<changeme>",
     "slotSetting": false
   },
   {
     "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
-    "value": "<changeme>",
-    "slotSetting": false
-  },
-  {
-    "name": "AzureWebJobsDashboard",
     "value": "<changeme>",
     "slotSetting": false
   },
@@ -71,7 +66,7 @@
   },
   {
     "name": "resourceGroupName",
-    "value": "<changeme>",
+    "value": "jedi_lt_test",
     "slotSetting": false
   },
   {
@@ -96,6 +91,16 @@
   },
   {
     "name": "tenantID",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTSHARE",
     "value": "<changeme>",
     "slotSetting": false
   }
